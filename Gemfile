@@ -11,6 +11,8 @@ gem 'rails', '~> 5.1.4'
 gem "slim-rails"
 gem 'simple_form'
 gem "paperclip", "~> 5.0.0"
+gem 'devise'
+gem "twitter-bootstrap-rails"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
